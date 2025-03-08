@@ -1,6 +1,6 @@
 # Potato-Leaf-Disease-Detection
 
-
+homepage.png
 
 
 Potato Leaf Disease Detection
